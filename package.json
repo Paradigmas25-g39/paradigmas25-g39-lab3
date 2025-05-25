@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Paradigmas25-g39/paradigmas25-g39-lab3/issues"
   },
-  "homepage": "https://github.com/Paradigmas25-g39/paradigmas25-g39-lab3#readme"
+  "homepage": "https://github.com/Paradigmas25-g39/paradigmas25-g39-lab3#readme",
+  "devDependencies": {
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0"
+  }
 }
