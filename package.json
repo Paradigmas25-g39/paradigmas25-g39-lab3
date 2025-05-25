@@ -1,0 +1,23 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Creamos un Makefile para compilar facilmente:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paradigmas25-g39/paradigmas25-g39-lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paradigmas25-g39/paradigmas25-g39-lab3/issues"
+  },
+  "homepage": "https://github.com/Paradigmas25-g39/paradigmas25-g39-lab3#readme"
+}
